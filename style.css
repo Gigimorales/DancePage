@@ -1,0 +1,15 @@
+@media(min-width: 768px) {
+   .news-input {
+       width: 50%;
+   } 
+}
+
+.names {
+    font-size: medium;
+    color: seashell;
+}
+
+.rounded {
+    width: 300px;
+    padding: 10px;
+}
